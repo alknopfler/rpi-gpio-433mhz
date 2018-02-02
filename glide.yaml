@@ -1,0 +1,6 @@
+package: github.com/alknopfler/rpi-gpio-433mhz
+import:
+- package: github.com/gorilla/mux
+  version: ^1.4.0
+- package: github.com/brian-armstrong/gpio
+  version: ^1.0
